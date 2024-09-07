@@ -1,5 +1,6 @@
 # ResSetter17
 A simple resolution setter based on [Nugget](https://discord.gg/cowabunga). Works up to iOS 18.0db8.
+Yea ik this code is shit im just rly tired and wanna sleep ):
 
 ### WARNING
 - Make a backup beforehand, some have reported bootloops.
