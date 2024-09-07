@@ -10,7 +10,7 @@
 ## Usage
 - Install pymobiledevice3 (`pip install pymobiledevice3`)
 - Install bs4 (`pip install bs4`)
-- Clone this repo (`git clone https://github/ktrrbypass/ResSetter17`)
+- Clone this repo (`git clone https://github/ktrrbypass/ResSetter17.git`)
 - Cd into it (`cd ~/ResSetter17`)
 - Run `main.py` (`python3 main.py`)
 - Profit?
