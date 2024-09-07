@@ -4,6 +4,7 @@
 - Tested on iPad Air 2 iOS 15.8
 
 ### WARNING
+- According to people who have tried this it does bootloop on iOS 17+, I am looking into this.
 - Make a backup beforehand, YOU CAN BOOTLOOP
 - I am NOT responsible for any bootloops/bricking of your devices
 
