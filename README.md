@@ -4,7 +4,7 @@
 - Tested on iPad Air 2 iOS 15.8
 
 ### WARNING
-- Make a backup beforehand, some have reported bootloops.
+- Make a backup beforehand, YOU CAN BOOTLOOP
 - I am NOT responsible for any bootloops/bricking of your devices
 
 ## Usage
